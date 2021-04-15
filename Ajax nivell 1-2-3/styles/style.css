@@ -1,0 +1,20 @@
+html, body{
+    height: 100vh;
+}
+
+.container{
+    background-color: rgb(228, 122, 84);
+    border: 3px solid orange;
+    border-radius: 1%;
+}
+
+#msg{
+  background: orange;
+  height: fit-content;
+  margin-top: 5px;
+  border-radius: 10px;
+}
+
+img{
+    width: 100%;
+}
